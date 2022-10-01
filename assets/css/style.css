@@ -133,8 +133,8 @@ h6 {
 --------------------------------------------------------------*/
 .search {
   background: #ffffff;
-  border-color: #92a8d1;
-  color: #000000;
+  border-color: #35322d;
+  color: #35322d;
   border-radius: 50px;
   margin: 0 0 0 20px;
   padding: 10px 25px;
@@ -146,8 +146,7 @@ h6 {
 }
 
 .button {
-  background: #92a8d1;
-  border-color: #92a8d1;
+  background: #35322d;
   color: #ffffff;
   border-radius: 50px;
   padding: 10px 25px;
